@@ -1,0 +1,1 @@
+nohup python train_detection_sft_condtion.py &
