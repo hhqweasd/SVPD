@@ -1,0 +1,7 @@
+labelme标注
+
+conda activate labelme
+
+labelme
+
+labelme_json_to_dataset.exe C:\Users\Administrator\Desktop\348-256
