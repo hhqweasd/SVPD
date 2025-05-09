@@ -1,6 +1,10 @@
 # SVPD
 Shadow Vanishing Point Detection
 
-# to-do:All codes
+All codes and dataset will be available here.
 
-# to-do:Dataset
+## 📢 Latest Updates
+
+- **May-2025:** [Human/Shadow Pretrained Weights](https://drive.google.com/file/d/1xe_EdiI-7zL9b68q_YzUz2kwLYiN6teM/view?usp=sharing)
+
+---
